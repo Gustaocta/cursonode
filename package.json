@@ -27,5 +27,9 @@
   "bugs": {
     "url": "https://github.com/Gustaocta/cursonode/issues"
   },
-  "homepage": "https://github.com/Gustaocta/cursonode#readme"
+  "homepage": "https://github.com/Gustaocta/cursonode#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  },
+  "devDependencies": {}
 }
